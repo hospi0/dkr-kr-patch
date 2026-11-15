@@ -18,6 +18,19 @@ Diddy Kong Racing (USA) (En,Fr) (Rev 1) 에 패치하시면 됩니다.
 
 xdelta 적용기(Delta Patcher 등)로 원본 롬(z64)에 `DKR_KR_v0.9.xdelta` 를 적용합니다.
 
+## DKR-R(PC 리컴파일 판)용 모드
+
+```
+DKR-R v1.0.15 의 Diddy Kong Racing (USA) (En,Fr) (Rev 1) 에 모드로 넣으시면 됩니다.
+
+원본md5 : B31F8CCA50F31ACC9B999ED5B779D6ED
+모드md5 : 0B83DDACB0396DE6116F00FF9CE867F7
+
+입니다.
+```
+
+[DKR-R](https://github.com/ThatGuyMcd/DKR-R) 런처의 Installed Mods > My mods > Custom Magic Codes 에서 `dkr_korean.nrm` 을 가져와 승인·켜고, 롬을 US v1.1(Rev 1)로 시작합니다. 롬은 바꾸지 않습니다.
+
 ## 바뀌는 것
 
 - 메뉴·옵션·대사 상자·자막·코스 이름 등 글자로 나오는 문장 전부(716줄)
@@ -36,6 +49,8 @@ xdelta 적용기(Delta Patcher 등)로 원본 롬(z64)에 `DKR_KR_v0.9.xdelta` �
 | `tools/wsl/build.sh` | 우분투에서 패치 적용 → 빌드 |
 | `tools/wsl/patch_src.py`, `patch_tool.py`, `apply_kr.py` | 소스(font.c)·에셋 도구·번역 적용 |
 | `work/kr/ko.tsv` | 번역 |
+| `tools/wsl/mod_kr.sh`, `mkmod.py`, `mod_build.sh` | DKR-R 모드 빌드(한글판 font.c 글자 함수를 시작 훅으로, 바뀐 에셋을 asset_load 뒤 훅으로 덮어씀) |
+| `mod/kr_main.c` | DKR-R 모드 SDK 쪽 코드 |
 | `docs/00_초기조사.md` | 작업 기록 |
 
 ## 글꼴
