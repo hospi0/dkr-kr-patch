@@ -7,17 +7,16 @@
 
 ## 적용
 
-1. 원본 롬을 준비합니다(z64, 빅 엔디언).
+```
+Diddy Kong Racing (USA) (En,Fr) (Rev 1) 에 패치하시면 됩니다.
 
-   | 항목 | 값 |
-   |---|---|
-   | 크기 | 12,582,912 B |
-   | MD5 | `b31f8cca50f31acc9b999ed5b779d6ed` |
-   | SHA-1 | `6d96743d46f8c0cd0edb0ec5600b003c89b93755` |
-   | CRC32 | `5ACCA298` |
+원본md5 : B31F8CCA50F31ACC9B999ED5B779D6ED
+패치md5 : 570A4117B2BC5412EFE9FDC7D2D892F6
 
-2. xdelta(Delta Patcher 등)로 `DKR_KR_v0.9.xdelta` 를 적용합니다.
-3. 결과 롬 MD5 = `570a4117b2bc5412efe9fdc7d2d892f6`
+입니다.
+```
+
+xdelta 적용기(Delta Patcher 등)로 원본 롬(z64)에 `DKR_KR_v0.9.xdelta` 를 적용합니다.
 
 ## 바뀌는 것
 
