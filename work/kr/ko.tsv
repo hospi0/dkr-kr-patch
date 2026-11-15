@@ -1,0 +1,716 @@
+menu:ASSET_MENU_TEXT_ABANDONCHALLENGE	챌린지 포기
+menu:ASSET_MENU_TEXT_ADVENTURE	어드벤처
+menu:ASSET_MENU_TEXT_ADVENTURE2	어드벤처
+menu:ASSET_MENU_TEXT_ADVENTURETWO	어드벤처 2
+menu:ASSET_MENU_TEXT_ADVENTURETWO2	어드벤처 2
+menu:ASSET_MENU_TEXT_ADVTWOLOADERROR_0	죄송하지만
+menu:ASSET_MENU_TEXT_ADVTWOLOADERROR_1	첫 번째 어드벤처를
+menu:ASSET_MENU_TEXT_ADVTWOLOADERROR_2	끝내기 전에는
+menu:ASSET_MENU_TEXT_ADVTWOLOADERROR_3	두 번째 어드벤처
+menu:ASSET_MENU_TEXT_ADVTWOLOADERROR_4	게임을 불러올 수
+menu:ASSET_MENU_TEXT_ADVTWOLOADERROR_5	없습니다.
+menu:ASSET_MENU_TEXT_ALLCODESDELETED	치트를 모두 지웠습니다
+menu:ASSET_MENU_TEXT_AUDIOOPTIONS	오디오 설정
+menu:ASSET_MENU_TEXT_BADCODE	코드가 틀렸습니다
+menu:ASSET_MENU_TEXT_BADCONTPAK	컨트롤러 팩 오류
+menu:ASSET_MENU_TEXT_BESTLAP	최고 랩
+menu:ASSET_MENU_TEXT_BESTTIME	최고 기록
+menu:ASSET_MENU_TEXT_CANCEL	취소
+menu:ASSET_MENU_TEXT_CANCELDELETE	취소
+menu:ASSET_MENU_TEXT_CANNOTSAVEGHOSTDATA_0	고스트 데이터를
+menu:ASSET_MENU_TEXT_CANNOTSAVEGHOSTDATA_1	저장할 수 없음
+menu:ASSET_MENU_TEXT_CANNOTSTOREANYMOREGHOSTS_0	고스트를 더 이상
+menu:ASSET_MENU_TEXT_CANNOTSTOREANYMOREGHOSTS_1	저장할 수 없습니다.
+menu:ASSET_MENU_TEXT_CAR	자동차
+menu:ASSET_MENU_TEXT_CARCHALLENGE	자동차 챌린지
+menu:ASSET_MENU_TEXT_CAUTION	주의
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_0	게임 중에는 진동 팩이나
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_1	컨트롤러 팩을 바꾸지
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_10	지금 바꿔 주세요.
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_2	마세요. 타임 트라이얼의
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_3	고스트 데이터를 저장하고
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_4	불러오려면 컨트롤러 팩이
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_5	필요합니다. 컨트롤러 팩의
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_6	빈 용량이 부족하면
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_7	고스트를 저장할 수 없습니다.
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_8	컨트롤러 팩이나 진동 팩을
+menu:ASSET_MENU_TEXT_CAUTIONMESSAGE_9	바꾸고 싶다면
+menu:ASSET_MENU_TEXT_CHALLENGE	챌린지
+menu:ASSET_MENU_TEXT_CHALLENGES	챌린지
+menu:ASSET_MENU_TEXT_CHALLENGESELECT	챌린지 선택
+menu:ASSET_MENU_TEXT_CHANGEVEHICLE	탈것 바꾸기
+menu:ASSET_MENU_TEXT_CLEARALLCODES	코드 모두 지우기
+menu:ASSET_MENU_TEXT_CLEARALLCODESCANCEL	취소
+menu:ASSET_MENU_TEXT_CLEARALLCODESCONFIRM	확인
+menu:ASSET_MENU_TEXT_CLEARALLCODESTITLE	코드를 모두 지울까요?
+menu:ASSET_MENU_TEXT_CODELIST	코드 목록
+menu:ASSET_MENU_TEXT_CONTINUE	계속하기
+menu:ASSET_MENU_TEXT_CONTPAK	컨트롤러 팩
+menu:ASSET_MENU_TEXT_CONTPAK1	컨트롤러 팩 1
+menu:ASSET_MENU_TEXT_CONTPAK2	컨트롤러 팩 2
+menu:ASSET_MENU_TEXT_CONTPAK3	컨트롤러 팩 3
+menu:ASSET_MENU_TEXT_CONTPAK4	컨트롤러 팩 4
+menu:ASSET_MENU_TEXT_CONTPAKDIFFERENT_0	다른 컨트롤러 팩이
+menu:ASSET_MENU_TEXT_CONTPAKDIFFERENT_1	꽂혀 있습니다.
+menu:ASSET_MENU_TEXT_CONTPAKFULL	컨트롤러 팩 가득 참
+menu:ASSET_MENU_TEXT_CONTPAKHASCORRUPTDATA_0	손상된 데이터가 있습니다.
+menu:ASSET_MENU_TEXT_CONTPAKHASCORRUPTDATA_1	복구 시도
+menu:ASSET_MENU_TEXT_CONTPAKISDAMAGED_0	복구할 수 없게 손상됨.
+menu:ASSET_MENU_TEXT_CONTPAKISDAMAGED_1	팩 초기화
+menu:ASSET_MENU_TEXT_CONTPAKISFULL	가득 찼습니다.
+menu:ASSET_MENU_TEXT_CONTPAKNOTPRESENT	없습니다.
+menu:ASSET_MENU_TEXT_CONTPAKRETRY	다시 시도
+menu:ASSET_MENU_TEXT_CONTPAKTRYAGAIN	팩을 바꾸고 다시 시도
+menu:ASSET_MENU_TEXT_CONTPAKX	컨트롤러 팩 ~
+menu:ASSET_MENU_TEXT_CONTROLLERNOTCONNECTED	1P 컨트롤러가 연결되지 않음
+menu:ASSET_MENU_TEXT_COPY	복사
+menu:ASSET_MENU_TEXT_CORRUPTDATA_0	손상된 데이터.
+menu:ASSET_MENU_TEXT_CORRUPTDATA_1	다시 시도하세요!
+menu:ASSET_MENU_TEXT_DELETE	삭제
+menu:ASSET_MENU_TEXT_DELETENOTEX	노트 ~ 삭제?
+menu:ASSET_MENU_TEXT_EMPTYSLOT	빈 슬롯
+menu:ASSET_MENU_TEXT_ENTERCODE	코드 입력
+menu:ASSET_MENU_TEXT_ENTERINITIALS	이니셜을 입력하세요
+menu:ASSET_MENU_TEXT_ENTERTROPHYRACE	트로피 레이스 참가
+menu:ASSET_MENU_TEXT_ERASE	지우기
+menu:ASSET_MENU_TEXT_ERASEGHOST	고스트 지우기
+menu:ASSET_MENU_TEXT_EXIT	나가기
+menu:ASSET_MENU_TEXT_FILENAME	파일 이름
+menu:ASSET_MENU_TEXT_FREEPAGESX	남은 페이지: ~
+menu:ASSET_MENU_TEXT_GAMEA	게임 A
+menu:ASSET_MENU_TEXT_GAMEB	게임 B
+menu:ASSET_MENU_TEXT_GAMEC	게임 C
+menu:ASSET_MENU_TEXT_GAMEERROR	게임 오류
+menu:ASSET_MENU_TEXT_GAMEPAK	게임 팩
+menu:ASSET_MENU_TEXT_GAMEPAKBONUSES	게임 팩 보너스
+menu:ASSET_MENU_TEXT_GAMESELECT	게임 선택
+menu:ASSET_MENU_TEXT_GAMETOCOPY	복사할 게임을 고르세요
+menu:ASSET_MENU_TEXT_GAMETOCOPYTO	복사해 넣을 게임을 고르세요
+menu:ASSET_MENU_TEXT_GAMETOERASE	지울 게임을 고르세요
+menu:ASSET_MENU_TEXT_GHOSTDATA	고스트 데이터
+menu:ASSET_MENU_TEXT_GHOSTS	고스트
+menu:ASSET_MENU_TEXT_GOLDCOIN	금화
+menu:ASSET_MENU_TEXT_HEADPHONES	헤드폰
+menu:ASSET_MENU_TEXT_HELP	도움말
+menu:ASSET_MENU_TEXT_HOVERCHALLENGE	호버 챌린지
+menu:ASSET_MENU_TEXT_HOVERCRAFT	호버크래프트
+menu:ASSET_MENU_TEXT_INSERTDEVICE_0	진동 팩을 쓰려면
+menu:ASSET_MENU_TEXT_INSERTDEVICE_1	지금
+menu:ASSET_MENU_TEXT_INSERTDEVICE_2	꽂아 주세요.
+menu:ASSET_MENU_TEXT_INSERTDEVICE_3	컨트롤러 팩을
+menu:ASSET_MENU_TEXT_INSERTDEVICE_4	쓰려면
+menu:ASSET_MENU_TEXT_INSERTDEVICE_5	지금 꽂아 주세요!
+menu:ASSET_MENU_TEXT_INSERTDEVICE_6	진동 팩을
+menu:ASSET_MENU_TEXT_LANGUAGE	한국어
+menu:ASSET_MENU_TEXT_LAPTIMES	랩 타임
+menu:ASSET_MENU_TEXT_LOSETOTAJ_0	다음엔
+menu:ASSET_MENU_TEXT_LOSETOTAJ_1	꼭 이기렴!
+menu:ASSET_MENU_TEXT_MAGICCODES	매직 코드
+menu:ASSET_MENU_TEXT_MAGICCODESLIST	매직 코드 목록
+menu:ASSET_MENU_TEXT_MAINMENU	메인 메뉴
+menu:ASSET_MENU_TEXT_MONO	모노
+menu:ASSET_MENU_TEXT_MORE	더 보기
+menu:ASSET_MENU_TEXT_MUSICTEST	음악 테스트 00
+menu:ASSET_MENU_TEXT_MUSICVOLUME	음악 볼륨
+menu:ASSET_MENU_TEXT_NEW	새로
+menu:ASSET_MENU_TEXT_NOCONTPAK	컨트롤러 팩 없음
+menu:ASSET_MENU_TEXT_NOGHOSTSSAVED	저장된 고스트 없음
+menu:ASSET_MENU_TEXT_NOTE	노트
+menu:ASSET_MENU_TEXT_NUMBEROFRACERS	레이서 수
+menu:ASSET_MENU_TEXT_OFF	끔
+menu:ASSET_MENU_TEXT_OK	확인
+menu:ASSET_MENU_TEXT_ON	켬
+menu:ASSET_MENU_TEXT_OPTIONS	설정
+menu:ASSET_MENU_TEXT_OVERALLTIME	전체 기록
+menu:ASSET_MENU_TEXT_PAGES	페이지
+menu:ASSET_MENU_TEXT_PAKERROR	팩 오류
+menu:ASSET_MENU_TEXT_PAKNOTES	팩 노트
+menu:ASSET_MENU_TEXT_PAUSEOPTIONS	일시 정지
+menu:ASSET_MENU_TEXT_PLANE	비행기
+menu:ASSET_MENU_TEXT_PLANECHALLENGE	비행기 챌린지
+menu:ASSET_MENU_TEXT_PLAYERSELECT	플레이어 선택
+menu:ASSET_MENU_TEXT_PLEASEWAIT	잠시 기다려 주세요
+menu:ASSET_MENU_TEXT_QUIT	그만두기
+menu:ASSET_MENU_TEXT_QUITGAME	게임 그만두기
+menu:ASSET_MENU_TEXT_QUITGAMETITLE	게임을 그만둘까요?
+menu:ASSET_MENU_TEXT_QUITTROPHYRACE	트로피 레이스 그만두기
+menu:ASSET_MENU_TEXT_QUITTROPHYRACETITLE	트로피 레이스를 그만둘까요?
+menu:ASSET_MENU_TEXT_RACEORDER	순위
+menu:ASSET_MENU_TEXT_RANKINGS	랭킹
+menu:ASSET_MENU_TEXT_RECORDTIMES	최고 기록
+menu:ASSET_MENU_TEXT_RESTARTCHALLENGE	챌린지 다시 하기
+menu:ASSET_MENU_TEXT_RESTARTRACE	레이스 다시 하기
+menu:ASSET_MENU_TEXT_RETURN	돌아가기
+menu:ASSET_MENU_TEXT_RETURNTOLOBBY	로비로 돌아가기
+menu:ASSET_MENU_TEXT_ROUNDFOUR	4라운드
+menu:ASSET_MENU_TEXT_ROUNDONE	1라운드
+menu:ASSET_MENU_TEXT_ROUNDTHREE	3라운드
+menu:ASSET_MENU_TEXT_ROUNDTWO	2라운드
+menu:ASSET_MENU_TEXT_RUMBLEPAKDETECTED_0	진동 팩을 찾았습니다
+menu:ASSET_MENU_TEXT_RUMBLEPAKDETECTED_1	쓰려는 컨트롤러 팩이 있으면
+menu:ASSET_MENU_TEXT_RUMBLEPAKDETECTED_2	지금 꽂아 주세요!
+menu:ASSET_MENU_TEXT_SAVEGHOST	고스트 저장
+menu:ASSET_MENU_TEXT_SAVEOPTIONS	저장 설정
+menu:ASSET_MENU_TEXT_SELECTCHARACTER	캐릭터 선택
+menu:ASSET_MENU_TEXT_SELECTTRACK	트랙 선택
+menu:ASSET_MENU_TEXT_SFXVOLUME	효과음 볼륨
+menu:ASSET_MENU_TEXT_SILVERCOIN	은화
+menu:ASSET_MENU_TEXT_START	시작
+menu:ASSET_MENU_TEXT_STATUS	진행 상황
+menu:ASSET_MENU_TEXT_STEREO	스테레오
+menu:ASSET_MENU_TEXT_SUBTITLESOFF	자막 끔
+menu:ASSET_MENU_TEXT_SUBTITLESON	자막 켬
+menu:ASSET_MENU_TEXT_TIMES	기록
+menu:ASSET_MENU_TEXT_TIMETRIALOFF	타임 트라이얼 끔
+menu:ASSET_MENU_TEXT_TIMETRIALON	타임 트라이얼 켬
+menu:ASSET_MENU_TEXT_TRACKS	트랙
+menu:ASSET_MENU_TEXT_TROPHYCEREMONY	트로피 시상식
+menu:ASSET_MENU_TEXT_TROPHYRACE	트로피 레이스
+menu:ASSET_MENU_TEXT_TRYAGAIN	다시 하기
+menu:ASSET_MENU_TEXT_TTINTRO_0	안녕, 나는 T.T.야.
+menu:ASSET_MENU_TEXT_TTINTRO_1	{sp}
+menu:ASSET_MENU_TEXT_TTINTRO_10	저장해 줄 수도 있지.
+menu:ASSET_MENU_TEXT_TTINTRO_2	게임 진행 상황을
+menu:ASSET_MENU_TEXT_TTINTRO_3	물어보거나
+menu:ASSET_MENU_TEXT_TTINTRO_4	내 타임 트라이얼
+menu:ASSET_MENU_TEXT_TTINTRO_5	모드를 골라서
+menu:ASSET_MENU_TEXT_TTINTRO_6	코스를 연습할
+menu:ASSET_MENU_TEXT_TTINTRO_7	수 있어.
+menu:ASSET_MENU_TEXT_TTINTRO_8	{sp}
+menu:ASSET_MENU_TEXT_TTINTRO_9	최고의 고스트를
+menu:ASSET_MENU_TEXT_TURNOFFN64_0	N64 전원을 끄고
+menu:ASSET_MENU_TEXT_TURNOFFN64_1	컨트롤러 팩을 빼 주세요.
+menu:ASSET_MENU_TEXT_UNKNOWN_186	쓰려면
+menu:ASSET_MENU_TEXT_UNKNOWN_187	지금 꽂아 주세요!
+menu:ASSET_MENU_TEXT_UNKNOWN_188	게임 선택
+menu:ASSET_MENU_TEXT_UNKNOWN_189	설정
+menu:ASSET_MENU_TEXT_UNKNOWN_190	설정
+menu:ASSET_MENU_TEXT_UNKNOWN_191	챌린지
+menu:ASSET_MENU_TEXT_VEHICLESELECT	탈것 선택
+menu:ASSET_MENU_TEXT_VIEWGHOSTS	고스트 보기
+dlg:0:0	길을 잘못 들었어.
+dlg:0:1	다시 해 봐!!
+tb:1:0:0	이건 아주 엉성한
+tb:1:0:1	시험용 글의
+tb:1:0:2	시작이야
+tb:1:1:0	이건 두 번째
+tb:1:1:1	페이지야.
+tb:2:0:0	레이싱 왕국에 어서 와!!
+tb:2:0:1	여기는 트로피 진열실이야.
+tb:2:0:2	이 월드의 황금 풍선을
+tb:2:0:3	전부 모으기 전에는
+tb:2:0:4	작동시킬 수 없어!!!
+tb:2:0:5	A 버튼
+tb:2:1:0	풍선을 다 모으면
+tb:2:1:1	준비됐다고 신호를
+tb:2:1:2	보내 줄게. 그러면
+tb:2:1:3	다이노 도메인 트로피
+tb:2:1:4	레이스가 더 즐거울 거야!!
+tb:2:1:5	A 버튼으로 끝
+tb:3:0:0	이 월드에 처음 들어오면
+tb:3:0:1	여기서 안내와 정보를
+tb:3:0:2	알려 줄 거야
+tb:3:0:3	A 버튼
+tb:3:1:0	무슨 일인지 알 수 있게
+tb:3:1:1	딱 한 번만 나와!
+tb:3:1:2	A 버튼으로 끝
+tb:4:0:4	트로피 레이스
+tb:4:0:6	트로피 레이스에 나가려면
+tb:4:0:7	이 월드의
+tb:4:0:8	과제를 전부
+tb:4:0:9	끝내야 해.
+tb:4:0:11	계속 달려!
+tb:5:0:5	잘했어!
+tb:5:0:8	1등 상으로
+tb:5:0:9	이걸 줄게!
+tb:5:0:12	황금
+tb:5:0:13	풍선이야!
+tb:6:0:7	마법사 위즈피그가
+tb:6:0:8	팀버의 섬에 사악한
+tb:6:0:9	마법을 걸었어.
+tb:6:0:11	마법의 황금 풍선을 모으고
+tb:6:0:12	부적 조각을 모아서
+tb:6:0:13	섬을
+tb:6:0:14	구해 줘!!
+tb:6:0:16	행운을 빌어
+tb:7:0:5	안녕, 친구!
+tb:7:0:7	탈것을 바꾸고 싶으면
+tb:7:0:8	경적을 울려서
+tb:7:0:9	나를 불러.
+tb:7:0:11	발판 위에 서거나
+tb:7:0:12	내가 가까이 있을 때
+tb:7:0:13	빵빵 울리면 돼!
+tb:7:0:15	A 버튼으로 계속
+tb:8:0:5	오랜만이야!
+tb:8:0:8	내 이름은
+tb:8:0:9	공원 관리인
+tb:8:0:12	경적을
+tb:8:0:13	울리면
+tb:8:0:14	여기서
+tb:8:0:15	탈것을
+tb:8:0:16	바꿀 수 있어!
+tb:8:0:19	행운을 빌어!
+tb:9:0:1	자동차 챌린지
+tb:9:0:3	네 운전 실력을
+tb:9:0:4	시험해 보자.
+tb:9:0:5	나랑 섬을 한 바퀴
+tb:9:0:6	경주하는
+tb:9:0:7	거야!!
+tb:10:0:1	호버 챌린지
+tb:10:0:3	네 운전 실력을
+tb:10:0:4	시험해 보자.
+tb:10:0:5	나랑 섬을 한 바퀴
+tb:10:0:6	경주하는
+tb:10:0:7	거야!!
+tb:11:0:1	비행기 챌린지
+tb:11:0:3	네 비행 실력을
+tb:11:0:4	시험해 보자.
+tb:11:0:5	나랑 섬을 한 바퀴
+tb:11:0:6	경주하는
+tb:11:0:7	거야!!
+tb:12:0:1	축하해!!
+tb:12:0:3	첫 번째 황금 풍선을
+tb:12:0:4	모았구나.
+tb:12:0:5	{sp}
+tb:12:0:7	이제 이걸로
+tb:12:0:8	다이노 도메인에
+tb:12:0:9	들어갈 수 있어!!!
+tb:13:0:1	다이노 도메인
+tb:13:0:2	T.T. 챌린지 열쇠
+tb:13:0:4	이 열쇠로
+tb:13:0:5	다이노 도메인 로비의
+tb:13:0:6	챌린지 방에
+tb:13:0:7	들어갈 수
+tb:13:0:8	있어!
+tb:14:0:1	스노플레이크 마운틴
+tb:14:0:2	T.T. 챌린지 열쇠
+tb:14:0:4	이 열쇠로
+tb:14:0:5	스노플레이크
+tb:14:0:6	마운틴 로비의
+tb:14:0:7	챌린지 방에
+tb:14:0:8	들어갈 수
+tb:14:0:9	있어!
+tb:15:0:1	셔벗 아일랜드
+tb:15:0:2	T.T. 챌린지 열쇠
+tb:15:0:4	이 열쇠로
+tb:15:0:5	셔벗 아일랜드 로비의
+tb:15:0:6	챌린지 방에
+tb:15:0:7	들어갈 수
+tb:15:0:8	있어!
+tb:16:0:1	드래곤 포레스트
+tb:16:0:2	T.T. 챌린지 열쇠
+tb:16:0:4	이 열쇠로
+tb:16:0:5	드래곤 포레스트 로비의
+tb:16:0:6	챌린지 방에
+tb:16:0:7	들어갈 수
+tb:16:0:8	있어!
+tb:17:0:1	내 실력이
+tb:17:0:2	한 수 위야!
+tb:17:0:4	다음엔
+tb:17:0:5	운이 따르길.
+tb:17:0:7	다시 해 봐.
+tb:18:0:1	잘했어!
+tb:18:0:3	상으로
+tb:18:0:4	이걸 받아.
+tb:18:0:6	나중에
+tb:18:0:7	또 보자.
+tb:19:0:1	잘했어!
+tb:19:0:3	상으로
+tb:19:0:4	이걸 받아.
+tb:19:0:6	나중에
+tb:19:0:7	또 보자.
+tb:20:0:1	잘했어!
+tb:20:0:3	상으로
+tb:20:0:4	이걸 받아.
+tb:20:0:6	이게 내
+tb:20:0:7	마지막 챌린지야.
+tb:20:0:8	정말
+tb:20:0:9	잘했어.
+tb:21:0:1	잘했어!
+tb:21:0:3	넌 실력 있는
+tb:21:0:4	레이서구나.
+tb:22:0:5	트리키톱스
+tb:22:0:6	보스 레벨
+tb:22:0:9	트리키톱스와
+tb:22:0:10	산꼭대기까지
+tb:22:0:11	경주해.
+tb:22:0:14	1등 상은
+tb:22:0:15	특별한 거야!
+tb:22:0:18	행운을 빌어!
+tb:23:0:5	바다코끼리 월리
+tb:23:0:6	보스 레벨
+tb:23:0:9	월리와
+tb:23:0:10	스노플레이크
+tb:23:0:11	마운틴 아래까지
+tb:23:0:12	경주해.
+tb:23:0:15	1등 상은
+tb:23:0:16	특별한 거야!
+tb:23:0:19	행운을 빌어!
+tb:24:0:5	축하해!
+tb:24:0:8	마법의 부적
+tb:24:0:9	조각 하나를
+tb:24:0:10	얻었어.
+tb:24:0:13	모아야 할 조각이
+tb:24:0:14	3개 더 있어!
+tb:24:0:17	행운을 빌어!
+tb:25:0:5	잘했어!
+tb:25:0:8	이제 부적
+tb:25:0:9	조각이
+tb:25:0:10	두 개야.
+tb:25:0:13	앞으로
+tb:25:0:14	두 개 더!
+tb:25:0:17	힘내!
+tb:26:0:5	잘했어!
+tb:26:0:8	부적 조각이
+tb:26:0:9	이제 딱
+tb:26:0:10	하나 남았어.
+tb:26:0:13	곧 위즈피그와
+tb:26:0:14	맞설 준비가
+tb:26:0:15	될 거야!
+tb:26:0:18	넌 할 수 있어!
+tb:27:0:5	축하해!
+tb:27:0:8	부적 조각을
+tb:27:0:9	네 개 모두
+tb:27:0:10	모았어!
+tb:27:0:13	이제 위즈피그와
+tb:27:0:14	맞설 자격이 있어!
+tb:27:0:17	행운을 빌어!
+tb:28:0:5	멋져!
+tb:28:0:8	T.T. 부적
+tb:28:0:9	조각 하나를
+tb:28:0:10	얻었어.
+tb:28:0:13	모아야 할 조각이
+tb:28:0:14	3개 더 있어!
+tb:28:0:17	행운을 빌어!
+tb:29:0:5	훌륭해!
+tb:29:0:8	T.T. 부적
+tb:29:0:9	조각을 또
+tb:29:0:10	얻었어!
+tb:29:0:13	모아야 할 조각이
+tb:29:0:14	2개 더 있어!
+tb:29:0:17	행운을 빌어!
+tb:30:0:5	대단해!
+tb:30:0:8	이제 부적
+tb:30:0:9	조각이
+tb:30:0:10	3개야.
+tb:30:0:13	이제 딱
+tb:30:0:14	하나 남았어!
+tb:30:0:17	행운을 빌어!
+tb:31:0:5	환상적이야!
+tb:31:0:8	부적이
+tb:31:0:9	완성됐어!
+tb:31:0:12	이걸로
+tb:31:0:13	T.T.의 문에
+tb:31:0:14	들어갈 수 있어!
+tb:31:0:17	잘했어!
+tb:32:0:5	발사 성공!
+tb:32:0:8	로켓이
+tb:32:0:9	머나먼 우주로
+tb:32:0:10	날아간다!
+tb:32:0:13	수수께끼의
+tb:32:0:14	낯선 행성을
+tb:32:0:15	향해 간다!
+tb:32:0:18	꽉 잡아!
+tb:33:0:4	파이어 마운틴
+tb:33:0:5	T.T. 챌린지
+tb:33:0:7	이 문에 들어가려면
+tb:33:0:8	열쇠를 찾아야 해.
+tb:33:0:10	열쇠는 다이노 도메인의
+tb:33:0:11	레이스 트랙 중 한 곳에
+tb:33:0:12	숨겨져 있어.
+tb:33:0:14	계속 찾아봐!
+tb:34:0:4	다크워터 비치
+tb:34:0:5	T.T. 챌린지
+tb:34:0:7	이 문에 들어가려면
+tb:34:0:8	열쇠를 찾아야 해.
+tb:34:0:10	열쇠는 셔벗 아일랜드의
+tb:34:0:11	레이스 트랙 중 한 곳에
+tb:34:0:12	숨겨져 있어.
+tb:34:0:14	계속 찾아봐!
+tb:35:0:4	아이시클 피라미드
+tb:35:0:5	T.T. 챌린지
+tb:35:0:7	이 문에 들어가려면
+tb:35:0:8	열쇠를 찾아야 해.
+tb:35:0:10	열쇠는 스노플레이크 마운틴의
+tb:35:0:11	레이스 트랙 중 한 곳에
+tb:35:0:12	숨겨져 있어.
+tb:35:0:14	계속 찾아봐!
+tb:36:0:4	스모키 캐슬
+tb:36:0:5	T.T. 챌린지
+tb:36:0:7	이 문에 들어가려면
+tb:36:0:8	열쇠를 찾아야 해.
+tb:36:0:10	열쇠는 드래곤 포레스트의
+tb:36:0:11	레이스 트랙 중 한 곳에
+tb:36:0:12	숨겨져 있어.
+tb:36:0:14	계속 찾아봐!
+tb:37:0:4	트리키톱스
+tb:37:0:5	보스 레벨
+tb:37:0:7	이 문에 들어가려면
+tb:37:0:8	이 월드의 풍선을
+tb:37:0:9	전부
+tb:37:0:10	모아야 해.
+tb:37:0:12	계속 달려!
+tb:38:0:4	셔벗 아일랜드
+tb:38:0:5	트로피 레이스
+tb:38:0:7	트로피 레이스에 나가려면
+tb:38:0:8	이 월드의 풍선을
+tb:38:0:9	전부
+tb:38:0:10	모아야 해.
+tb:38:0:12	계속 달려!
+tb:39:0:4	스노플레이크 마운틴
+tb:39:0:5	트로피 레이스
+tb:39:0:7	트로피 레이스에 나가려면
+tb:39:0:8	이 월드의 풍선을
+tb:39:0:9	전부
+tb:39:0:10	모아야 해.
+tb:39:0:12	계속 달려!
+tb:40:0:4	드래곤 포레스트
+tb:40:0:5	트로피 레이스
+tb:40:0:7	트로피 레이스에 나가려면
+tb:40:0:8	이 월드의 풍선을
+tb:40:0:9	전부
+tb:40:0:10	모아야 해.
+tb:40:0:12	계속 달려!
+tb:41:0:4	퓨처 펀 랜드
+tb:41:0:5	트로피 레이스
+tb:41:0:7	트로피 레이스에 나가려면
+tb:41:0:8	이 월드의 풍선을
+tb:41:0:9	전부
+tb:41:0:10	모아야 해.
+tb:41:0:12	계속 달려!
+tb:42:0:4	출입 금지!!
+tb:42:0:6	풍선이 ~개
+tb:42:0:7	있어야
+tb:42:0:8	들어갈 수 있어.
+tb:42:0:10	행운을 빌어!
+tb:43:0:4	문어
+tb:43:0:5	보스 레벨
+tb:43:0:7	이 문에 들어가려면
+tb:43:0:8	이 월드의 풍선을
+tb:43:0:9	전부
+tb:43:0:10	모아야 해.
+tb:43:0:12	계속 달려!
+tb:44:0:4	보스 레벨
+tb:44:0:6	이 문에 들어가려면
+tb:44:0:7	이 월드의 풍선을
+tb:44:0:8	전부
+tb:44:0:9	모아야 해.
+tb:44:0:11	계속 달려!
+tb:45:0:5	드래곤 협곡
+tb:45:0:6	보스 레벨!
+tb:45:0:9	스모키와 함께
+tb:45:0:10	드래곤 협곡을
+tb:45:0:11	세 바퀴
+tb:45:0:12	경주해
+tb:45:0:15	행운을 빌어!
+tb:46:0:3	잘했어!
+tb:46:0:4	넌 나보다
+tb:46:0:5	너무 빨라!
+tb:46:0:7	A 버튼
+tb:46:1:0	이번엔 은화 챌린지야.
+tb:46:1:1	은화 8개를 모으고
+tb:46:1:2	1등으로 들어오면
+tb:46:1:3	황금 풍선을 또 줄게.
+tb:46:1:5	A 버튼
+tb:47:0:3	잘했어!
+tb:47:0:4	넌 나보다
+tb:47:0:5	너무 빨라!
+tb:47:0:7	A 버튼
+tb:47:1:0	이번엔 트로피 레이스야.
+tb:47:1:1	가장 많은 점수를 얻어서
+tb:47:1:2	금 트로피를
+tb:47:1:3	차지해!
+tb:47:1:5	A 버튼
+tb:48:0:3	잘했어!
+tb:48:0:4	넌 나보다
+tb:48:0:5	너무 빨라!
+tb:48:0:7	A 버튼
+tb:49:0:1	출입 금지!
+tb:49:0:3	T.T. 부적 조각을
+tb:49:0:4	전부 모으고
+tb:49:0:5	{sp}
+tb:49:0:7	풍선 47개를
+tb:49:0:8	모아야
+tb:49:0:10	이 문에
+tb:49:0:11	들어갈 수 있어.
+tb:49:0:13	계속 달려!!
+dlg:50:0	안녕!
+dlg:50:1	난 이 섬의 지니야.
+dlg:50:2	널 도우러 왔어!
+dlg:50:3	행운을 빌어!
+dlg:51:0	잘했어!
+dlg:51:1	자, 이제 나랑 레이스로 승부하자!
+dlg:52:0	잘했어!
+dlg:52:1	이번엔 새 챌린지에 도전해 봐!
+dlg:52:2	내 월드의 은화를 전부 모아.
+dlg:52:3	코스마다 8개씩 찾고 이겨야 해!
+dlg:52:4	그다음 다시 나를 찾아와!
+dlg:53:0	아깝다, 꼬마야!!
+dlg:53:1	다음엔 잘될 거야!
+dlg:53:2	준비되면 언제든 다시 와!
+dlg:54:0	잘했다, 꼬마야!
+dlg:54:1	부적 조각을 하나 얻었어!
+dlg:54:2	이번엔 트로피 챌린지에 도전해!
+dlg:54:3	잘 가!
+dlg:55:0	환상적이야!
+dlg:55:1	나를 한 번 더 이기면
+dlg:55:2	특별한 상을 줄게!
+dlg:56:0	파티를 망쳐서 미안하다, 벌레들아!
+dlg:56:1	…하지만 작별 인사는 해야지!
+dlg:57:0	나중에 보자, 벌레들아!
+dlg:58:0	야호! 파티하자!
+dlg:59:0	넌 날 못 이겨!
+tb:60:0:3	알 세 개를 먼저 부화시키는
+tb:60:0:4	플레이어가 이겨!
+tb:61:0:3	마지막까지 살아남는
+tb:61:0:4	플레이어가 이겨!!
+tb:62:0:3	마지막까지 살아남는
+tb:62:0:4	플레이어가 이겨!!
+tb:63:0:3	바나나 10개를 먼저
+tb:63:0:4	자기 보물 상자에 넣는
+tb:63:0:5	플레이어가 이겨!!
+dlg:64:0	어디 보자!
+dlg:64:1	꼬마 벌레 녀석이잖아!
+tb:65:0:4	잘했어!!
+tb:65:0:6	이 월드를
+tb:65:0:7	구했어.
+tb:65:0:8	트로피 진열장에는
+tb:65:0:9	가 봤어? 열쇠는
+tb:65:0:10	찾았니?
+tb:65:0:12	계속 힘내!
+dlg:66:0	미끄러질 때 브레이크를 눌러 봐!
+dlg:67:0	지퍼를 밟기 직전에
+dlg:67:1	가속 버튼에서 손을 떼 봐!
+dlg:68:0	잘했다, 꼬마야!
+dlg:68:1	이제 나랑 레이스로 승부하자!
+dlg:69:0	잘했다, 꼬마야!
+dlg:69:1	이번엔 새 챌린지에 도전해 봐!
+dlg:69:2	다이노 도메인 곳곳에 있는
+dlg:69:3	내 은화를 전부 모아!
+dlg:69:4	코스마다 8개씩 찾고 이겨야 해!
+dlg:69:5	그다음 다시 나를 찾아와!
+dlg:70:0	잘했다, 꼬마야!
+dlg:70:1	부적 조각을 하나 얻었어!
+dlg:70:2	이번엔 트로피 챌린지에 도전해!
+dlg:70:3	나중에 보자!
+dlg:71:0	아, 신경 쓰지 마, 꼬마야!
+dlg:71:1	준비되면
+dlg:71:2	언제든 다시 와!
+dlg:72:0	잘했어!
+dlg:72:1	이번엔 새 챌린지에 도전해 봐!
+dlg:72:2	눈의 월드에 있는
+dlg:72:3	은화를 전부 모아.
+dlg:72:4	코스마다 8개씩 모으고 이겨야 해!
+dlg:72:5	그다음 다시 나를 찾아와!
+dlg:73:0	잘했어!
+dlg:73:1	부적 조각을 하나 얻었어!
+dlg:73:2	이번엔 트로피 챌린지에 도전해!
+dlg:73:3	잘 가라, 꼬마야!
+dlg:74:0	잘했어!
+dlg:74:1	새 챌린지에 도전해 봐!
+dlg:74:2	내 월드의 은화를 전부 모아.
+dlg:74:3	코스마다 8개씩 찾고 이겨야 해!
+dlg:74:4	그다음 다시 나한테 와!
+dlg:75:0	하, 하, 하!
+dlg:75:1	나를 한 번 더 이기면
+dlg:75:2	특별한 상을 주지!
+dlg:76:0	잘했다, 꼬맹이!
+dlg:76:1	부적 조각을 하나 얻었어!
+dlg:76:2	이번엔 트로피 챌린지에 도전해!
+dlg:76:3	잘 가!
+dlg:77:0	훌륭해!
+dlg:77:1	이제 나랑 레이스로 승부하자!
+dlg:78:0	운이 없었군!
+dlg:78:1	하, 하, 하, 하아아!
+dlg:78:2	준비되면 언제든 다시 도전해!
+dlg:79:0	훌륭해!
+dlg:79:1	이번엔 새 챌린지에 도전해 봐!
+dlg:79:2	내 월드의 은화를 전부 모아.
+dlg:79:3	코스마다 8개씩 찾고 이겨야 해!
+dlg:79:4	그다음 다시 나를 찾아와!
+dlg:80:0	하, 하, 하, 하!
+dlg:80:1	나를 한 번 더 이기면
+dlg:80:2	특별한 상을 주지!
+dlg:81:0	훌륭해!
+dlg:81:1	부적 조각을 하나 얻었어!
+dlg:81:2	이번엔 트로피 챌린지에 도전해!
+dlg:81:3	잘 가!
+dlg:82:0	이제 내 기록을 깨 봐!
+dlg:83:0	잘했어! 이제 다른 트랙에 도전해.
+dlg:84:0	내 기록을 전부 깼구나!
+dlg:84:1	이제 나를 고를 수 있어!
+lvl:AncientLake_v79.json	고대 호수
+lvl:Bluey1_v79.json	바다코끼리 보스
+lvl:Bluey2_v79.json	바다코끼리 2
+lvl:BlueyAnim_v79.json	바다코끼리 보스 연출 1
+lvl:BoulderCanyon_v79.json	바위 협곡
+lvl:Bubbler1_v79.json	셔벗 보스
+lvl:Bubbler2_v79.json	셔벗 2
+lvl:BubblerAnim_v79.json	문어 연출
+lvl:CentralAreaHub_v79.json	중앙 지역
+lvl:CharacterSelect_v79.json	캐릭터 선택 테스트
+lvl:CrescentIsland_v79.json	초승달 섬
+lvl:DarkmoonCaverns_v79.json	어둠달 동굴
+lvl:DarkwaterBeach_v79.json	다크워터 비치
+lvl:DinoDomainHub_v79.json	다이노 도메인
+lvl:DinoDomainTrophyAnim_v79.json	다이노 트로피
+lvl:DragonForestHub_v79.json	드래곤 포레스트
+lvl:DragonForestTrophyAnim_v79.json	드래곤 트로피
+lvl:EverfrostPeak_v79.json	만년설 봉우리
+lvl:FireMountain_v79.json	파이어 마운틴
+lvl:FossilCanyon_v79.json	화석 협곡
+lvl:FrontEnd_v79.json	프런트 엔드
+lvl:FrostyVillage_v79.json	서리 마을
+lvl:FutureFunLandHub_v79.json	퓨처 펀 랜드
+lvl:FutureFunLandTrophyAnim_v79.json	우주 트로피
+lvl:GreenwoodVillage_v79.json	그린우드 마을
+lvl:HauntedWoods_v79.json	유령의 숲
+lvl:HorseshoeGulch_v79.json	말굽 골짜기
+lvl:HotTopVolcano_v79.json	핫톱 화산
+lvl:IciclePyramid_v79.json	아이시클 피라미드
+lvl:JungleFalls_v79.json	정글 폭포
+lvl:LastBitB_v79.json	마지막 B
+lvl:LastBit_v79.json	마지막
+lvl:OpeningSequence_v79.json	오프닝 지역
+lvl:OptionsBackground_v79.json	설정 배경
+lvl:PartySequence_v79.json	파티 장면 1
+lvl:PirateLagoon_v79.json	해적 석호
+lvl:RocketSequence_v79.json	로켓 장면
+lvl:SherbetIslandHub_v79.json	셔벗 아일랜드
+lvl:SherbetIslandTrophyAnim_v79.json	셔벗 트로피
+lvl:Smokey1_v79.json	드래곤 보스
+lvl:Smokey2_v79.json	드래곤 2
+lvl:SmokeyAnim_v79.json	드래곤 보스 연출 1
+lvl:SmokeyCastle_v79.json	스모키 캐슬
+lvl:SnowballValley_v79.json	눈덩이 계곡
+lvl:SnowflakeMountainHub_v79.json	스노플레이크 마운틴
+lvl:SnowflakeMountainTrophyAnim_v79.json	스노플레이크 트로피
+lvl:SpacedustAlley_v79.json	우주먼지 골목
+lvl:SpaceportAlpha_v79.json	우주항 알파
+lvl:StarCity_v79.json	스타 시티
+lvl:TTAmuletSequence_v79.json	스톱워치 부적
+lvl:TitleScreenSequence_v79.json	RC 카 장면
+lvl:TreasureCaves_v79.json	보물 동굴
+lvl:TricktopsAnim_v79.json	트리키톱스 연출 1
+lvl:Trickytops1_v79.json	트리키톱스 1
+lvl:Trickytops2_v79.json	트리키톱스 2
+lvl:TrophyRace_v79.json	트로피 레이스
+lvl:WalrusCove_v79.json	바다코끼리 만
+lvl:WhaleBay_v79.json	고래 만
+lvl:WindmillPlains_v79.json	풍차 평원
+lvl:Wizpig1Anim_v79.json	위즈피그 1 연출
+lvl:Wizpig1_v79.json	위즈피그 1
+lvl:Wizpig2Anim_v79.json	위즈피그 2 연출
+lvl:Wizpig2_v79.json	위즈피그 2
+lvl:WizpigAmuletSequence_v79.json	부적 장면
+lvl:WizpigMouthSequence_v79.json	위즈피그 입 장면
+code:TIMBER	팀버
+code:BUMPER	범퍼
+code:CONKER	콩커
+code:TIPTUP	팁텁
+code:DRUMSTICK	드럼스틱
+code:PIPSY	핍시
+code:BANJO	반조
+code:KRUNCH	크런치
+code:WIZPIG	위즈피그
+code:DIDDY	디디
